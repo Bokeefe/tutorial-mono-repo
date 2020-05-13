@@ -1,0 +1,28 @@
+{
+  "name": "brendan-mono-repo",
+  "version": "1.0.0",
+  "description": "hopefully this develops into one place for all my projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan O'Keefe",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "morgan": "^1.10.0",
+    "music-metadata": "^6.3.7",
+    "musicmetadata": "^2.0.5",
+    "path": "^0.12.7",
+    "walk": "^2.3.14"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "github.com/bokeefe/tutorial-mono-repo"
+  }
+}
